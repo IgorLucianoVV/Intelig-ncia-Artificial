@@ -1,0 +1,9 @@
+Modelos,Média,Desvio Padrão,Maior Valor,Menor Valor
+MQO tradicional,0.723686,0.00634938138719041,0.7431,0.7021
+Classificador Gaussiano Tradicional,0.1998924,0.003633541280899393,0.2104,0.1891
+Classificador Gaussiano (Cov. de todo cj. treino),0.9482808,0.0019843868977596035,0.9539,0.9425
+Classificador Gaussiano (Cov. Agregada),0.9624531999999999,0.0017738911353293333,0.9672,0.9571
+Classificador de Bayes Ingenuo (Naive Bayes Classifier),0.9471962,0.002029819095387566,0.953,0.9408
+Classificador Gaussiano Regularizado (Friedman λ = 0.25),0.9747817999999999,0.0014631912930304055,0.9794,0.9693
+Classificador Gaussiano Regularizado (Friedman λ = 0.5),0.9679382,0.0016162056676054567,0.9729,0.9633
+Classificador Gaussiano Regularizado (Friedman λ = 0.75),0.9647783999999999,0.0016986504761133177,0.9692,0.96
